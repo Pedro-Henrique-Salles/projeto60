@@ -1,6 +1,9 @@
 body{
     text-align:center;
 }
+#link{
+    list-style:none;
+}
 #menu{
     text-align:none;
 }
